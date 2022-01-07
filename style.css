@@ -1,0 +1,31 @@
+*{
+    margin: 0px;
+}
+
+#main{
+    background-color: rgb(243, 235, 235);
+}
+.title{
+    text-align: center;
+    margin: 50px;
+}
+.img-div{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 50px;
+}
+.title-disc{
+    text-align: center;
+    font-weight: 400;
+    font-size: larger;
+}
+h2{
+    text-align: center;
+    padding: 30px;
+}
+li{
+
+
+    font-size: larger;
+    font-weight: 400;
+}
